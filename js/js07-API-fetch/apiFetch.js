@@ -19,7 +19,7 @@ en comparación con métodos más antiguos, como XMLHttpRequest.
 */
 
 // const urlFakeStore = "https://fakestoreapi.com/products";
-const urlFakeStore = "./pokemones.json";
+const urlFakeStore = "https://fakestoreapi.com/products";
 
 const getProducts = (url) => {
   // Realizando solicitud Get

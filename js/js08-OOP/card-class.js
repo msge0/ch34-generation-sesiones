@@ -12,7 +12,7 @@ class Card {
     set image( image ){
         this.#image = image;
     }
-    get image(){
+    get imgage(){
         return this.#image;
     }
     set title( title ){
